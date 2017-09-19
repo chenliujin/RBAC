@@ -7,3 +7,6 @@
 	'password': '密码，md5',
 }
 ```
+- SESSION
+ - user_id
+ - username
