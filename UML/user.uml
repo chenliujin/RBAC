@@ -60,7 +60,7 @@
 <XPD:ATTR name="Left" type="integer">280</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">128</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">160</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">56</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
 <XPD:REF name="Model">d+iv8bDAFUaEYYwPnwtC3wAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="36FPJxoGl0Ox4SFYrd6ejwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="p6i3493Qw0uEJkCSCNpmHAAA">
@@ -96,7 +96,7 @@
 <XPD:REF name="Views[1]">dJ+D0IxMvU+zQmxrDDhxQwAA</XPD:REF>
 <XPD:REF name="Views[2]">HSGMcSZmB0GRZP0ApbadMAAA</XPD:REF>
 <XPD:REF name="Views[3]">FIPt3/0aoUqUdE+ANriTPQAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="zvIdwHOFlESeBSAxZyuoDwAA">
 <XPD:ATTR name="Name" type="string">login</XPD:ATTR>
 <XPD:REF name="Owner">d+iv8bDAFUaEYYwPnwtC3wAA</XPD:REF>
@@ -109,6 +109,10 @@
 <XPD:ATTR name="Name" type="string">$password</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">zvIdwHOFlESeBSAxZyuoDwAA</XPD:REF>
 </XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="Ujl90uHfp0i5GnyiALWkOgAA">
+<XPD:ATTR name="Name" type="string">logout</XPD:ATTR>
+<XPD:REF name="Owner">d+iv8bDAFUaEYYwPnwtC3wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
